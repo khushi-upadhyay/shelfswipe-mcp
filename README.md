@@ -1,6 +1,6 @@
 # shelfswipe-mcp
 
-> **MCP server** that gives LLM agents access to dummy merchant shop catalogs for ShelfSwipe product onboarding in [PayTrace](../PayTrace/README.md).
+> **MCP server** that gives LLM agents access to dummy merchant shop catalogs for ShelfSwipe product onboarding
 
 ---
 
