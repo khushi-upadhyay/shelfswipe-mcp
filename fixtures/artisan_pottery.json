@@ -1,0 +1,69 @@
+{
+  "shop_id": "artisan-pottery-001",
+  "shop_name": "Clay & Co. Pottery Studio",
+  "shop_url": "shelfswipe://fixtures/artisan_pottery",
+  "contact_email": "hello@clayandco.dev",
+  "description": "Hand-thrown stoneware and raku-fired ceramics from a family studio in Vermont.",
+  "products": [
+    {
+      "id": "pottery-001",
+      "name": "Speckled Stoneware Matcha Bowl",
+      "price": 38.00,
+      "currency": "USD",
+      "category": "Pottery & Kitchen",
+      "description": "Hand-thrown speckled stoneware with authentic chawan whisking contour. Microwave and dishwasher safe.",
+      "image_url": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=600&q=80",
+      "stock": 8,
+      "tags": ["matcha", "tea", "handmade", "kitchen", "gift"],
+      "why_matches": "Unique handcrafted kitchen gift matching high-quality local craftsmanship."
+    },
+    {
+      "id": "pottery-002",
+      "name": "Raku-Fired Bud Vase Set",
+      "price": 55.00,
+      "currency": "USD",
+      "category": "Pottery & Home Decor",
+      "description": "Set of three raku-fired bud vases with iridescent metallic glaze. Each piece is one-of-a-kind.",
+      "image_url": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=600&q=80",
+      "stock": 4,
+      "tags": ["vase", "decor", "raku", "handmade", "gift"],
+      "why_matches": "Statement home decor gift with artisan-quality finish, perfect for minimalist interiors."
+    },
+    {
+      "id": "pottery-003",
+      "name": "Celadon Glaze Dinner Plate Set (4)",
+      "price": 120.00,
+      "currency": "USD",
+      "category": "Pottery & Kitchen",
+      "description": "Set of four celadon-glazed dinner plates with a rustic rim. Food-safe, oven-safe to 400F.",
+      "image_url": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=600&q=80",
+      "stock": 3,
+      "tags": ["plates", "dining", "celadon", "kitchen", "set"],
+      "why_matches": "Premium handcrafted table setting, ideal housewarming or wedding gift."
+    },
+    {
+      "id": "pottery-004",
+      "name": "Wheel-Thrown Espresso Cup Duo",
+      "price": 42.00,
+      "currency": "USD",
+      "category": "Pottery & Kitchen",
+      "description": "Two 3oz wheel-thrown espresso cups in a matte charcoal glaze. Thick walls retain heat.",
+      "image_url": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=600&q=80",
+      "stock": 12,
+      "tags": ["coffee", "espresso", "cups", "handmade", "kitchen"],
+      "why_matches": "Gift for coffee lovers who appreciate artisan craftsmanship over mass production."
+    },
+    {
+      "id": "pottery-005",
+      "name": "Terracotta Herb Planter Trio",
+      "price": 29.00,
+      "currency": "USD",
+      "category": "Pottery & Garden",
+      "description": "Three small terracotta planters with drainage holes, ideal for windowsill herbs.",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&q=80",
+      "stock": 20,
+      "tags": ["planter", "garden", "herbs", "terracotta", "home"],
+      "why_matches": "Practical and charming gift for home gardeners and plant parents."
+    }
+  ]
+}

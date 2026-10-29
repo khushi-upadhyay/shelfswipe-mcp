@@ -1,0 +1,81 @@
+{
+  "shop_id": "green-haven-home-003",
+  "shop_name": "Green Haven Home & Garden",
+  "shop_url": "shelfswipe://fixtures/home_garden",
+  "contact_email": "shop@greenhaven.dev",
+  "description": "Sustainable home goods and hand-crafted garden accessories for the eco-conscious home.",
+  "products": [
+    {
+      "id": "home-001",
+      "name": "Handmade Organic Lavender Candle",
+      "price": 24.50,
+      "currency": "USD",
+      "category": "Home & Aromatics",
+      "description": "Soy wax infused with organic French lavender, hand-poured in small batches. Burns 45+ hours.",
+      "image_url": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+      "stock": 15,
+      "tags": ["candle", "lavender", "aromatherapy", "soy", "home"],
+      "why_matches": "Relaxing birthday gift option from a local home studio."
+    },
+    {
+      "id": "home-002",
+      "name": "Macrame Wall Hanging - Desert Sunrise",
+      "price": 68.00,
+      "currency": "USD",
+      "category": "Home & Textiles",
+      "description": "Hand-knotted natural cotton macrame wall art, 18in wide x 30in long. Comes with a driftwood mounting rod.",
+      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
+      "stock": 6,
+      "tags": ["macrame", "wall art", "decor", "boho", "handmade"],
+      "why_matches": "Statement boho wall art piece for minimalist or earthy interior styles."
+    },
+    {
+      "id": "home-003",
+      "name": "Beeswax Food Wraps Set (3 sizes)",
+      "price": 18.00,
+      "currency": "USD",
+      "category": "Home & Eco",
+      "description": "Set of small, medium, and large reusable beeswax-coated cotton wraps. Replaces single-use plastic wrap.",
+      "image_url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=600&q=80",
+      "stock": 40,
+      "tags": ["eco", "sustainable", "kitchen", "zero-waste", "beeswax"],
+      "why_matches": "Practical eco-gift for sustainable living enthusiasts, under $20."
+    },
+    {
+      "id": "home-004",
+      "name": "Pressed Wildflower Botanical Print Set (A4)",
+      "price": 36.00,
+      "currency": "USD",
+      "category": "Home & Art",
+      "description": "Set of three A4 archival prints of hand-pressed wildflowers on 300gsm cotton rag paper.",
+      "image_url": "https://images.unsplash.com/photo-1490750967868-88df5691cc81?auto=format&fit=crop&w=600&q=80",
+      "stock": 12,
+      "tags": ["art", "botanical", "print", "wildflower", "home decor"],
+      "why_matches": "Elegant gallery wall gift for nature lovers and botanical art collectors."
+    },
+    {
+      "id": "home-005",
+      "name": "Seed Paper Stationery Kit",
+      "price": 22.00,
+      "currency": "USD",
+      "category": "Stationery & Eco",
+      "description": "10-pack of plantable wildflower seed paper note cards with kraft envelopes. Each card grows into wildflowers when planted.",
+      "image_url": "https://images.unsplash.com/photo-1455541504462-57ebb2a9cec1?auto=format&fit=crop&w=600&q=80",
+      "stock": 25,
+      "tags": ["stationery", "eco", "plantable", "cards", "gift"],
+      "why_matches": "Unique eco-friendly stationery gift - cards that bloom after use."
+    },
+    {
+      "id": "home-006",
+      "name": "Eucalyptus & Mint Room Spray",
+      "price": 15.00,
+      "currency": "USD",
+      "category": "Home & Aromatics",
+      "description": "100ml all-natural room and linen spray with eucalyptus, mint, and cedarwood essential oils.",
+      "image_url": "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?auto=format&fit=crop&w=600&q=80",
+      "stock": 30,
+      "tags": ["room spray", "aromatherapy", "eucalyptus", "home", "natural"],
+      "why_matches": "Affordable everyday home fragrance gift, great stocking filler."
+    }
+  ]
+}

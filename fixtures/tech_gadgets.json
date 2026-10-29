@@ -1,0 +1,69 @@
+{
+  "shop_id": "tinker-lab-tech-004",
+  "shop_name": "TinkerLab Indie Gadgets",
+  "shop_url": "shelfswipe://fixtures/tech_gadgets",
+  "contact_email": "makers@tinkerlab.dev",
+  "description": "Small-batch electronics, desk accessories and maker kits crafted by independent hardware teams.",
+  "products": [
+    {
+      "id": "tech-001",
+      "name": "Wooden Wireless Charging Pad",
+      "price": 45.00,
+      "currency": "USD",
+      "category": "Tech & Desk",
+      "description": "15W Qi wireless charger with responsibly sourced walnut wood veneer top. USB-C powered, LED ring indicator.",
+      "image_url": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=600&q=80",
+      "stock": 20,
+      "tags": ["wireless", "charger", "walnut", "desk", "tech"],
+      "why_matches": "Premium desk tech gift blending natural materials with modern functionality."
+    },
+    {
+      "id": "tech-002",
+      "name": "Minimalist Mechanical Keyboard (65%)",
+      "price": 149.00,
+      "currency": "USD",
+      "category": "Tech & Peripherals",
+      "description": "65% layout hot-swap mechanical keyboard with Gateron Red switches, per-key RGB, and aluminium case.",
+      "image_url": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?auto=format&fit=crop&w=600&q=80",
+      "stock": 7,
+      "tags": ["keyboard", "mechanical", "desk setup", "RGB", "tech"],
+      "why_matches": "Top-tier typing experience gift for developers and productivity enthusiasts."
+    },
+    {
+      "id": "tech-003",
+      "name": "Smart Desk Plant Monitor",
+      "price": 39.00,
+      "currency": "USD",
+      "category": "Tech & Home",
+      "description": "Bluetooth soil sensor tracking moisture, sunlight, temperature and fertilizer. Syncs with companion app.",
+      "image_url": "https://images.unsplash.com/photo-1466027397211-20d0f2449a3d?auto=format&fit=crop&w=600&q=80",
+      "stock": 14,
+      "tags": ["plant", "smart home", "sensor", "IoT", "gift"],
+      "why_matches": "Clever gift for plant parents who love combining tech and greenery."
+    },
+    {
+      "id": "tech-004",
+      "name": "Raspberry Pi Starter Kit (Maker Edition)",
+      "price": 89.00,
+      "currency": "USD",
+      "category": "Tech & Maker",
+      "description": "Raspberry Pi 4 (2GB) with official case, 32GB SD card pre-loaded with Raspberry Pi OS, heatsink, and beginner project guide.",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+      "stock": 9,
+      "tags": ["raspberry pi", "maker", "DIY", "electronics", "kit"],
+      "why_matches": "Perfect gift for aspiring makers, students, and tinkerers."
+    },
+    {
+      "id": "tech-005",
+      "name": "Magnetic Cable Organiser System",
+      "price": 28.00,
+      "currency": "USD",
+      "category": "Tech & Desk",
+      "description": "Set of 8 magnetic cable clips in powder-coated aluminium. Keeps USB-C, Lightning, and HDMI cables tangle-free.",
+      "image_url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+      "stock": 35,
+      "tags": ["cable", "organiser", "desk", "minimalist", "tech"],
+      "why_matches": "Affordable productivity gift for the cable-chaos sufferer at any desk."
+    }
+  ]
+}
