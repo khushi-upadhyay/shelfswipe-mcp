@@ -1,6 +1,6 @@
 # shelfswipe-mcp
 
-> **MCP server** that gives LLM agents access to dummy merchant shop catalogs for ShelfSwipe product onboarding
+> **MCP server** that gives LLM agents access to dummy merchant shop catalogs for ShelfSwipe product onboarding : Try [ShelfSwipe MCP](https://shelfswipe-mcp.vercel.app/)
 
 ---
 
