@@ -1,0 +1,69 @@
+{
+  "shop_id": "morning-crust-bakery-002",
+  "shop_name": "Morning Crust Artisan Bakery",
+  "shop_url": "shelfswipe://fixtures/bakery_shop",
+  "contact_email": "orders@morningcrust.dev",
+  "description": "Small-batch artisan baked goods and gourmet pantry products crafted in Portland, Oregon.",
+  "products": [
+    {
+      "id": "bakery-001",
+      "name": "Raw Wildflower Honey & Dipper Set",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Gourmet Pantry",
+      "description": "Locally harvested unfiltered raw wildflower honey with olive wood dipper. Single-origin Pacific Northwest hives.",
+      "image_url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80",
+      "stock": 22,
+      "tags": ["honey", "gourmet", "pantry", "gift", "natural"],
+      "why_matches": "Best-seller gourmet gift item under $25 from local beekeepers."
+    },
+    {
+      "id": "bakery-002",
+      "name": "Sourdough Starter Kit",
+      "price": 34.00,
+      "currency": "USD",
+      "category": "Gourmet Pantry",
+      "description": "Everything to bake your first loaf: 50g live sourdough starter, rye flour blend, linen banneton, and recipe card.",
+      "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "stock": 15,
+      "tags": ["sourdough", "bread", "baking", "kit", "foodie"],
+      "why_matches": "Perfect gift for aspiring home bakers and fermentation enthusiasts."
+    },
+    {
+      "id": "bakery-003",
+      "name": "Artisan Jam Trio (Seasonal Fruits)",
+      "price": 28.00,
+      "currency": "USD",
+      "category": "Gourmet Pantry",
+      "description": "Three 4oz jars: Oregon Strawberry Balsamic, Marionberry Lavender, and Spiced Apple Butter. No artificial preservatives.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=600&q=80",
+      "stock": 30,
+      "tags": ["jam", "preserves", "gourmet", "fruit", "pantry"],
+      "why_matches": "Beautiful gift set pairing well with charcuterie boards."
+    },
+    {
+      "id": "bakery-004",
+      "name": "Hazelnut Brown Butter Cookie Box (12)",
+      "price": 22.00,
+      "currency": "USD",
+      "category": "Gourmet Pantry",
+      "description": "One dozen hand-decorated hazelnut shortbreads with browned butter and vanilla bean. Ships in a kraft gift box.",
+      "image_url": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=600&q=80",
+      "stock": 10,
+      "tags": ["cookies", "baked", "dessert", "hazelnut", "gift"],
+      "why_matches": "Ready-to-gift treat box, crowd-pleasing for holidays and celebrations."
+    },
+    {
+      "id": "bakery-005",
+      "name": "Single-Origin Pour-Over Coffee Bundle",
+      "price": 32.00,
+      "currency": "USD",
+      "category": "Gourmet Pantry",
+      "description": "Two 4oz bags of single-origin whole bean coffee (Ethiopian Yirgacheffe + Colombian Huila) with tasting notes card.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80",
+      "stock": 18,
+      "tags": ["coffee", "pour-over", "gourmet", "single-origin", "gift"],
+      "why_matches": "Ideal specialty coffee gift for pour-over enthusiasts."
+    }
+  ]
+}

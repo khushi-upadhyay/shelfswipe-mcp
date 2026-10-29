@@ -1,6 +1,9 @@
 __pycache__/
 *.py[cod]
-*.egg-info/
+*.egg
+web/node_modules/
+web/.next/
+web/out/-info/
 .venv/
 venv/
 dist/
@@ -9,3 +12,6 @@ build/
 .mypy_cache/
 .ruff_cache/
 *.egg
+web/node_modules/
+web/.next/
+web/out/

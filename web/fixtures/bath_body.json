@@ -1,0 +1,69 @@
+{
+  "shop_id": "bloom-bath-body-005",
+  "shop_name": "Bloom Bath & Body Co.",
+  "shop_url": "shelfswipe://fixtures/bath_body",
+  "contact_email": "hello@bloombath.dev",
+  "description": "Handcrafted cold-process soaps, bath bombs, and botanical skincare made in small batches in Austin, TX.",
+  "products": [
+    {
+      "id": "bath-001",
+      "name": "Botanical Cold-Process Soap Bar Trio",
+      "price": 16.50,
+      "currency": "USD",
+      "category": "Bath & Body",
+      "description": "Eucalyptus, cedarwood, and rosehip oils formulated for gentle everyday lather. Palm-oil free.",
+      "image_url": "https://images.unsplash.com/photo-1607006314352-d98c253d537f?auto=format&fit=crop&w=600&q=80",
+      "stock": 18,
+      "tags": ["soap", "botanical", "handmade", "eco", "bath"],
+      "why_matches": "Eco-friendly, budget-friendly self-care gift box."
+    },
+    {
+      "id": "bath-002",
+      "name": "Luxury Bath Bomb Set (6 pack)",
+      "price": 30.00,
+      "currency": "USD",
+      "category": "Bath & Body",
+      "description": "Six bath bombs: rose, oat milk, peppermint, charcoal, citrus burst, and lavender dream. Moisturising shea butter base.",
+      "image_url": "https://images.unsplash.com/photo-1570194065650-d99fb4d77685?auto=format&fit=crop&w=600&q=80",
+      "stock": 25,
+      "tags": ["bath bomb", "relaxation", "spa", "gift set", "self care"],
+      "why_matches": "Colourful spa gift set that suits birthdays, holidays and self-care Sundays."
+    },
+    {
+      "id": "bath-003",
+      "name": "Whipped Shea Body Butter (Rose & Almond)",
+      "price": 21.00,
+      "currency": "USD",
+      "category": "Bath & Body",
+      "description": "200ml whipped unrefined shea butter with rose hip oil, sweet almond oil and light rose fragrance.",
+      "image_url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80",
+      "stock": 20,
+      "tags": ["body butter", "shea", "moisturiser", "rose", "skincare"],
+      "why_matches": "Luxurious everyday skin care gift for anyone who loves a natural glow."
+    },
+    {
+      "id": "bath-004",
+      "name": "Himalayan Salt Soak with Botanicals",
+      "price": 18.00,
+      "currency": "USD",
+      "category": "Bath & Body",
+      "description": "Fine Himalayan pink salt blended with dried lavender, chamomile and calendula flowers. 300g jar.",
+      "image_url": "https://images.unsplash.com/photo-1531685250784-7569952593d2?auto=format&fit=crop&w=600&q=80",
+      "stock": 16,
+      "tags": ["bath soak", "himalayan salt", "botanical", "relaxation", "spa"],
+      "why_matches": "Calming, affordable spa gift for bath lovers and stress-relief seekers."
+    },
+    {
+      "id": "bath-005",
+      "name": "Natural Lip Care Set (3 tints)",
+      "price": 14.00,
+      "currency": "USD",
+      "category": "Bath & Body",
+      "description": "Three beeswax-based tinted lip balms in berry, nude rose, and coral. SPF 15, vitamin E enriched.",
+      "image_url": "https://images.unsplash.com/photo-1512207736890-6ffed8a84e8d?auto=format&fit=crop&w=600&q=80",
+      "stock": 40,
+      "tags": ["lip balm", "natural", "tinted", "beeswax", "skincare"],
+      "why_matches": "Charming stocking-filler gift under $15 for any beauty routine."
+    }
+  ]
+}
